@@ -19,7 +19,7 @@ cd procctrl
 ```sh
 pip install -r requirements.txt
 ```
-### Run the procgram
+### 3. Run the procgram
 Run the script with different options.
 1. List all running processes (unsorted)
 ```sh
