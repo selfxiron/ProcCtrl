@@ -1,4 +1,4 @@
-# ProcCtrl
+# 🚀 ProcCtrl
 A minimal and efficient Linux process manager built with Python.
 
 ## 🛠 Features
@@ -39,8 +39,8 @@ python procctrl.py --sort memory
 python procctrl.py --sort cpu
 ```
 
-## Contributing 
+## 🤝 Contributing 
 Feel free to fork this project and submit pull requests for improvements!
 
-## License
+## 📜 License
 This project is open-source and free to use.
