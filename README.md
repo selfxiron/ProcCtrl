@@ -10,21 +10,16 @@ A minimal and efficient Linux process manager built with Python.
 ## 📦 Installation
 Make sure to install python3 and requirements.txt
 
-### Clone the repository
+### 1. Clone the repository
 ```sh
 git clone https://github.com/selfxiron/procctrl.git
 cd procctrl
 ```
-### Install the dependencies
+### 2. Install the dependencies
 ```sh
 pip install -r requirements.txt
 ```
-### Run the program
-```sh
-python procctrl.py
-```
-
-## Usage
+### Run the procgram
 Run the script with different options.
 1. List all running processes (unsorted)
 ```sh
