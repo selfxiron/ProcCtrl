@@ -27,11 +27,11 @@ python procctrl.py
 ```
 2. List all running processes sorted by memory usage
 ```sh
-python procctrl.py --sort memory
+python procctrl.py --sort=memory
 ```
 3. List all running processes sorted by CPU usage
 ```sh
-python procctrl.py --sort cpu
+python procctrl.py --sort=cpu
 ```
 
 ## 🤝 Contributing 
